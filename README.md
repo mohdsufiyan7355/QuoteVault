@@ -40,7 +40,7 @@ A full-featured iOS app for discovering, saving, and sharing inspirational quote
 
 **Tech**: Local notifications (iOS native)
 
-### ✅ Sharing & Export (10 marks)
+### ✅ Sharing & Export
 - ✅ Share quote as text via system share sheet
 - ✅ Generate shareable quote card (quote + author on styled background)
 - ✅ Save quote card as image to device
@@ -53,7 +53,7 @@ A full-featured iOS app for discovering, saving, and sharing inspirational quote
 - ✅ Font size adjustment for quotes (12-24pt)
 - ✅ Settings persist locally and sync to user profile
 
-### ⏳ Widget (10 marks) - Not Implemented
+### ⏳ Widget - Not Implemented
 - ⏳ Home screen widget displaying current quote of the day
 - ⏳ Widget updates daily
 - ⏳ Tapping widget opens the app to that quote
