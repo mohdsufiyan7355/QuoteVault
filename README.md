@@ -4,7 +4,7 @@ A full-featured iOS app for discovering, saving, and sharing inspirational quote
 
 ## Features
 
-### ✅ Authentication & User Accounts (15 marks)
+### ✅ Authentication & User Accounts
 - ✅ Sign up with email/password
 - ✅ Login/logout functionality
 - ✅ Password reset flow
@@ -13,7 +13,7 @@ A full-featured iOS app for discovering, saving, and sharing inspirational quote
 
 **Tech**: Supabase Auth
 
-### ✅ Quote Browsing & Discovery (20 marks)
+### ✅ Quote Browsing & Discovery
 - ✅ Home feed displaying quotes (paginated infinite scroll)
 - ✅ Browse quotes by category (5 categories: Motivation, Love, Success, Wisdom, Humor)
 - ✅ Search quotes by keyword
@@ -23,7 +23,7 @@ A full-featured iOS app for discovering, saving, and sharing inspirational quote
 
 **Tech**: Supabase Database (100+ quotes seeded locally)
 
-### ✅ Favorites & Collections (15 marks)
+### ✅ Favorites & Collections
 - ✅ Save quotes to favorites (heart/bookmark)
 - ✅ View all favorited quotes in a dedicated screen
 - ✅ Create custom collections (e.g., "Morning Motivation", "Work Quotes")
@@ -32,7 +32,7 @@ A full-featured iOS app for discovering, saving, and sharing inspirational quote
 
 **Tech**: Supabase Database (user_favorites, collections tables)
 
-### ✅ Daily Quote & Notifications (10 marks)
+### ✅ Daily Quote & Notifications
 - ✅ "Quote of the Day" prominently displayed on home screen
 - ✅ Quote of the day changes daily (local logic based on day of year)
 - ✅ Local push notification for daily quote
@@ -48,7 +48,7 @@ A full-featured iOS app for discovering, saving, and sharing inspirational quote
 
 **Tech**: Image generation (SwiftUI view snapshot)
 
-### ✅ Personalization & Settings (10 marks)
+### ✅ Personalization & Settings
 - ✅ Dark mode / Light mode toggle
 - ✅ Font size adjustment for quotes (12-24pt)
 - ✅ Settings persist locally and sync to user profile
@@ -60,7 +60,7 @@ A full-featured iOS app for discovering, saving, and sharing inspirational quote
 
 **Tech**: iOS WidgetKit (planned for future)
 
-### ✅ Code Quality & Architecture (10 marks)
+### ✅ Code Quality & Architecture
 - ✅ Clean project structure (separation of concerns)
 - ✅ Consistent naming conventions
 - ✅ No hardcoded strings (use constants/localization)
